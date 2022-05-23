@@ -14,4 +14,4 @@
 > * [Using Vagrant on your personal computer](https://alx-intranet.hbtn.io/concepts/81)
 
 ### Author:
-> > [kodiankodes](twitter.com/kodiankodes)
+> > [kodiankodes](https://twitter.com/kodiankodes)
